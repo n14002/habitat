@@ -20,22 +20,24 @@ h2 {
 	font-size: 120%;
 	margin-bottom: 10px; 
 	font-family: Osaka, 'ＭＳ Ｐゴシック', sans-serif;
+        color:purple;
     }
 
 h3 {
-	margin-top: 17px; 
+	margin-top: 1l7px; 
 	font-weight: bold; 
 	font-size: 100%;
 	margin-bottom: 10px; 
 	font-family: Osaka, 'ＭＳ Ｐゴシック', sans-serif;
+        color:purple;
     }
 
 
-/*
+
  a {
    color: #093
    }
-*/
+
 
 
 #container {
